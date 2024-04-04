@@ -8,7 +8,7 @@ public class InterfataTest {
 
         PersoanaStudent Alex1 = new PersoanaStudent("Alex", "Mirza", 44);
         PersoanaAngajat Alex2 = new PersoanaAngajat("Alex", "Mirza", 44);
-        StudentAngajat Alex3 = new StudentAngajat("Alex", "Mirza", 44);
+        PersoanaStudentAngajat Alex3 = new PersoanaStudentAngajat("Alex", "Mirza", 44);
 
     }
 }

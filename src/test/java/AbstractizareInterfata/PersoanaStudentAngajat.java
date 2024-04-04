@@ -1,7 +1,7 @@
 package AbstractizareInterfata;
 
-public class StudentAngajat extends Persoana implements Student, Angajat{
-    public StudentAngajat(String nume, String prenume, Integer varsta) {
+public class PersoanaStudentAngajat extends Persoana implements Student, Angajat{
+    public PersoanaStudentAngajat(String nume, String prenume, Integer varsta) {
         super(nume, prenume, varsta);
     }
 

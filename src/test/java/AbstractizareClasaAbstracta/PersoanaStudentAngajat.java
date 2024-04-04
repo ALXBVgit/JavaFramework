@@ -1,7 +1,7 @@
 package AbstractizareClasaAbstracta;
 
-public class StudentAngajat extends Persoana{
-    public StudentAngajat(String nume, String prenume, Integer varsta) {
+public class PersoanaStudentAngajat extends Persoana{
+    public PersoanaStudentAngajat(String nume, String prenume, Integer varsta) {
         super(nume, prenume, varsta);
     }
 
