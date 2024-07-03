@@ -2,7 +2,9 @@ package euro2024.fotbalist.pozitii;
 
 import euro2024.fotbalist.Fotbalist;
 import euro2024.fotbalist.interfete.FundasInterface;
+import lombok.NoArgsConstructor;
 
+@NoArgsConstructor
 public class FundasLateral extends Fotbalist implements FundasInterface {
     public FundasLateral(String nume, String prenume, Integer varsta, String oras, Double rating, String nationalitate,
                          String pozitieTeren, Integer nrTricou, String club, String nationala, Boolean esteCapitan, Boolean esteTitular) {

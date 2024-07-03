@@ -1,0 +1,360 @@
+{
+  "nume": "Euro 2024",
+  "grupe": [
+    {
+      "nrGrupa": 1,
+      "nationale": [
+        {
+          "denumire": "Romania",
+          "nrJucatori": 23,
+          "antrenor": {
+            "nume": "Ion",
+            "prenume": "Popescu",
+            "varsta": 50,
+            "oras": "Bucharest",
+            "rating": 8.9,
+            "nationalitate": "Romanian",
+            "aniExperienta": 20,
+            "echipaNationala": "Romania",
+            "nrTrofee": 5
+          },
+          "atacantiCentrali": [
+            {
+              "nume": "Vasile",
+              "prenume": "Ionescu",
+              "varsta": 30,
+              "oras": "Cluj",
+              "rating": 7.5,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Forward",
+              "nrTricou": 10,
+              "club": "Steaua",
+              "nationala": "Romania",
+              "esteCapitan": true,
+              "esteTitular": true
+            }
+          ],
+          "atacantiLaterali": [
+            {
+              "nume": "Gheorghe",
+              "prenume": "Marin",
+              "varsta": 28,
+              "oras": "Timisoara",
+              "rating": 7.0,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Winger",
+              "nrTricou": 11,
+              "club": "Dinamo",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "fundasiCentrali": [
+            {
+              "nume": "Radu",
+              "prenume": "Vlad",
+              "varsta": 26,
+              "oras": "Brasov",
+              "rating": 8.0,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Center Back",
+              "nrTricou": 5,
+              "club": "Rapid",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "fundasiLaterali": [
+            {
+              "nume": "Andrei",
+              "prenume": "Popa",
+              "varsta": 24,
+              "oras": "Constanta",
+              "rating": 7.3,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Full Back",
+              "nrTricou": 2,
+              "club": "CFR Cluj",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "fundasiOfensivi": [
+            {
+              "nume": "Cristian",
+              "prenume": "Stancu",
+              "varsta": 25,
+              "oras": "Sibiu",
+              "rating": 7.8,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Wing Back",
+              "nrTricou": 3,
+              "club": "Petrolul",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "jucatoriTerenUniversali": [
+            {
+              "nume": "Florin",
+              "prenume": "Dumitrescu",
+              "varsta": 27,
+              "oras": "Arad",
+              "rating": 7.9,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Utility Player",
+              "nrTricou": 6,
+              "club": "Universitatea Craiova",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "mijlocasiCentrali": [
+            {
+              "nume": "Sorin",
+              "prenume": "Iorgulescu",
+              "varsta": 29,
+              "oras": "Bucuresti",
+              "rating": 7.6,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Central Midfielder",
+              "nrTricou": 8,
+              "club": "Steaua",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "mijlocasiDefensivi": [
+            {
+              "nume": "Adrian",
+              "prenume": "Marinescu",
+              "varsta": 31,
+              "oras": "Iasi",
+              "rating": 7.4,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Defensive Midfielder",
+              "nrTricou": 4,
+              "club": "Dinamo",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "mijlocasiOfensivi": [
+            {
+              "nume": "Daniel",
+              "prenume": "Popescu",
+              "varsta": 32,
+              "oras": "Ploiesti",
+              "rating": 8.2,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Attacking Midfielder",
+              "nrTricou": 7,
+              "club": "Rapid",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "portari": [
+            {
+              "nume": "Mihai",
+              "prenume": "Ionescu",
+              "varsta": 30,
+              "oras": "Oradea",
+              "rating": 8.5,
+              "nationalitate": "Romanian",
+              "pozitieTeren": "Goalkeeper",
+              "nrTricou": 1,
+              "club": "CFR Cluj",
+              "nationala": "Romania",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ]
+        },
+        {
+          "denumire": "France",
+          "nrJucatori": 23,
+          "antrenor": {
+            "nume": "Didier",
+            "prenume": "Deschamps",
+            "varsta": 52,
+            "oras": "Paris",
+            "rating": 9.1,
+            "nationalitate": "French",
+            "aniExperienta": 10,
+            "echipaNationala": "France",
+            "nrTrofee": 3
+          },
+          "atacantiCentrali": [
+            {
+              "nume": "Antoine",
+              "prenume": "Griezmann",
+              "varsta": 30,
+              "oras": "Macon",
+              "rating": 8.7,
+              "nationalitate": "French",
+              "pozitieTeren": "Forward",
+              "nrTricou": 7,
+              "club": "Barcelona",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "atacantiLaterali": [
+            {
+              "nume": "Kylian",
+              "prenume": "Mbappe",
+              "varsta": 22,
+              "oras": "Paris",
+              "rating": 9.4,
+              "nationalitate": "French",
+              "pozitieTeren": "Winger",
+              "nrTricou": 10,
+              "club": "PSG",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "fundasiCentrali": [
+            {
+              "nume": "Raphael",
+              "prenume": "Varane",
+              "varsta": 28,
+              "oras": "Lille",
+              "rating": 8.3,
+              "nationalitate": "French",
+              "pozitieTeren": "Center Back",
+              "nrTricou": 4,
+              "club": "Manchester United",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "fundasiLaterali": [
+            {
+              "nume": "Lucas",
+              "prenume": "Hernandez",
+              "varsta": 25,
+              "oras": "Marseille",
+              "rating": 8.1,
+              "nationalitate": "French",
+              "pozitieTeren": "Full Back",
+              "nrTricou": 21,
+              "club": "Bayern Munich",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "fundasiOfensivi": [
+            {
+              "nume": "Theo",
+              "prenume": "Hernandez",
+              "varsta": 24,
+              "oras": "Marseille",
+              "rating": 8.4,
+              "nationalitate": "French",
+              "pozitieTeren": "Wing Back",
+              "nrTricou": 22,
+              "club": "AC Milan",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "jucatoriTerenUniversali": [
+            {
+              "nume": "Adrien",
+              "prenume": "Rabiot",
+              "varsta": 26,
+              "oras": "Saint-Maurice",
+              "rating": 7.8,
+              "nationalitate": "French",
+              "pozitieTeren": "Utility Player",
+              "nrTricou": 25,
+              "club": "Juventus",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "mijlocasiCentrali": [
+            {
+              "nume": "Paul",
+              "prenume": "Pogba",
+              "varsta": 28,
+              "oras": "Lagny-sur-Marne",
+              "rating": 8.6,
+              "nationalitate": "French",
+              "pozitieTeren": "Central Midfielder",
+              "nrTricou": 6,
+              "club": "Manchester United",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "mijlocasiDefensivi": [
+            {
+              "nume": "N'Golo",
+              "prenume": "Kante",
+              "varsta": 30,
+              "oras": "Paris",
+              "rating": 9.0,
+              "nationalitate": "French",
+              "pozitieTeren": "Defensive Midfielder",
+              "nrTricou": 13,
+              "club": "Chelsea",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "mijlocasiOfensivi": [
+            {
+              "nume": "Thomas",
+              "prenume": "Lemar",
+              "varsta": 25,
+              "oras": "Baie-Mahault",
+              "rating": 8.2,
+              "nationalitate": "French",
+              "pozitieTeren": "Attacking Midfielder",
+              "nrTricou": 8,
+              "club": "Atletico Madrid",
+              "nationala": "France",
+              "esteCapitan": false,
+              "esteTitular": true
+            }
+          ],
+          "portari": [
+            {
+              "nume": "Hugo",
+              "prenume": "Lloris",
+              "varsta": 34,
+              "oras": "Nice",
+              "rating": 8.8,
+              "nationalitate": "French",
+              "pozitieTeren": "Goalkeeper",
+              "nrTricou": 1,
+              "club": "Tottenham",
+              "nationala": "France",
+              "esteCapitan": true,
+              "esteTitular": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

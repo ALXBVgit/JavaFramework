@@ -4,7 +4,9 @@ import euro2024.fotbalist.Fotbalist;
 import euro2024.fotbalist.interfete.AtacantInterface;
 import euro2024.fotbalist.interfete.FundasInterface;
 import euro2024.fotbalist.interfete.MijlocasInterface;
+import lombok.NoArgsConstructor;
 
+@NoArgsConstructor
 public class JucatorTerenUniversal extends Fotbalist implements AtacantInterface, FundasInterface, MijlocasInterface {
     public JucatorTerenUniversal(String nume, String prenume, Integer varsta, String oras, Double rating, String nationalitate,
                                  String pozitieTeren, Integer nrTricou, String club, String nationala, Boolean esteCapitan, Boolean esteTitular) {

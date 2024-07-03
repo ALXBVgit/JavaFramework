@@ -2,10 +2,12 @@ package euro2024.antrenor;
 
 import euro2024.Persoana;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Getter
 @Setter
+@NoArgsConstructor
 public class Antrenor extends Persoana implements AntrenorInterface{
     private Integer aniExperienta;
     private String echipaNationala;

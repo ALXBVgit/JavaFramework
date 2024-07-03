@@ -3,9 +3,10 @@ package euro2024.fotbalist.pozitii;
 import euro2024.fotbalist.Fotbalist;
 import euro2024.fotbalist.interfete.FundasInterface;
 import euro2024.fotbalist.interfete.MijlocasInterface;
+import lombok.NoArgsConstructor;
 
 import java.text.Format;
-
+@NoArgsConstructor
 public class MijlocasDefensiv extends Fotbalist implements MijlocasInterface, FundasInterface {
     public MijlocasDefensiv(String nume, String prenume, Integer varsta, String oras, Double rating, String nationalitate,
                             String pozitieTeren, Integer nrTricou, String club, String nationala, Boolean esteCapitan, Boolean esteTitular) {

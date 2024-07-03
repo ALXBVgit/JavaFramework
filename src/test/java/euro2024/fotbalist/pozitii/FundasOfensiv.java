@@ -3,10 +3,11 @@ package euro2024.fotbalist.pozitii;
 import euro2024.fotbalist.Fotbalist;
 import euro2024.fotbalist.interfete.AtacantInterface;
 import euro2024.fotbalist.interfete.FundasInterface;
+import lombok.NoArgsConstructor;
 
 import java.text.Format;
 import java.util.concurrent.FutureTask;
-
+@NoArgsConstructor
 public class FundasOfensiv extends Fotbalist implements FundasInterface, AtacantInterface {
     public FundasOfensiv(String nume, String prenume, Integer varsta, String oras, Double rating, String nationalitate,
                          String pozitieTeren, Integer nrTricou, String club, String nationala, Boolean esteCapitan, Boolean esteTitular) {
